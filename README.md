@@ -1,2 +1,2 @@
 # NetNinjaCourses
-NetNinja Courses
+[NetNinja](https://netninja.dev/) Courses
